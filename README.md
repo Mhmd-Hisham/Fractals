@@ -1,7 +1,7 @@
 # Fractals
 Some fractal art.
 
-
+* [Recursive Fractal Trees](https://github.com/Mhmd-Hisham/Fractals/tree/master/recursive_fractal_tree)
 
 ## Meta
 
