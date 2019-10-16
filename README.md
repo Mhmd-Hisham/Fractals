@@ -1,6 +1,8 @@
 # Fractals
 Some fractal art.
 
+You will find a readme file for each fractal aimation for more details.
+
 
 * [Recursive Fractal Trees](https://github.com/Mhmd-Hisham/Fractals/tree/master/recursive_fractal_tree)
 
