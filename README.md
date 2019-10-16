@@ -1,7 +1,13 @@
 # Fractals
 Some fractal art.
 
+
 * [Recursive Fractal Trees](https://github.com/Mhmd-Hisham/Fractals/tree/master/recursive_fractal_tree)
+
+|                          |                          |
+:-------------------------:|:-------------------------:
+[![](https://raw.githubusercontent.com/Mhmd-Hisham/Fractals/master/recursive_fractal_tree/demo/demo2.gif)](https://github.com/Mhmd-Hisham/Fractals/tree/master/recursive_fractal_tree)  |  [![](https://raw.githubusercontent.com/Mhmd-Hisham/Fractals/master/recursive_fractal_tree/demo/demo1.gif)](https://github.com/Mhmd-Hisham/Fractals/tree/master/recursive_fractal_tree)
+
 
 ## Meta
 
