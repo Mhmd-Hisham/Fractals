@@ -1,4 +1,4 @@
-This is a [Processing3](https://processing.org/) sketch written in [Python](https://www.python.org/) for visualizing Fractal Trees.
+This is a [Processing3](https://processing.org/) sketch written in [Python](https://www.python.org/) for visualizing [Fractal Trees](https://en.wikipedia.org/wiki/Fractal).
 
 To install Processing3 and Python mode for processing, please follow the instructions in [here](https://github.com/Mhmd-Hisham/Fractals/blob/master/InstallingProcessing3.md).
 
@@ -11,4 +11,4 @@ To install Processing3 and Python mode for processing, please follow the instruc
 Mohamed Hisham – [G-Mail](mailto:Mohamed00Hisham@Gmail.com) | [GitHub](https://github.com/Mhmd-Hisham) | [LinkedIn](https://www.linkedin.com/in/Mhmd-Hisham/)
 
 
-This project is licensed under the GNU GPLv3 License - check [LICENSE](https://github.com/Mhmd-Hisham/SmartAntsGA/blob/master/LICENSE) for more details.
+This project is licensed under the GNU GPLv3 License - check [LICENSE](https://github.com/Mhmd-Hisham/Fractals/blob/master/LICENSE) for more details.
