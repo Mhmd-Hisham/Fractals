@@ -2,7 +2,7 @@ This is a [Processing3](https://processing.org/) sketch written in [Python](http
 
 To install Processing3 and Python mode for processing, please follow the instructions in [here](https://github.com/Mhmd-Hisham/Fractals/blob/master/InstallingProcessing3.md).
 
-![Sierpinski demo](https://raw.githubusercontent.com/Mhmd-Hisham/Fractals/master/recursive_sierpinski_triangle_2d/demo/sierpinski_triangle_demo_800x.gif)
+![Sierpinski demo](https://github.com/Mhmd-Hisham/Fractals/blob/master/recursive_sierpinski_triangle_2d/demo/%20sierpinski_triangle_demo_600x_2.gif)
 
 
 ## Meta
