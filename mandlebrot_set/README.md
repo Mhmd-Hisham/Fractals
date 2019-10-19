@@ -1,10 +1,10 @@
-This is a [Processing3](https://processing.org/) sketch written in [Python](https://www.python.org/) for visualizing [The Mandlebrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set).
+This is a [Processing3](https://processing.org/) sketch written in [Python](https://www.python.org/) for visualizing [The Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set).
 
 To install Processing3 and Python mode for processing, please follow the instructions in [here](https://github.com/Mhmd-Hisham/Fractals/blob/master/InstallingProcessing3.md).
 
-![Mandlebrot set blue](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandlebrot_set/demo/mandlebrot_set_horizontal_blue_600x.gif)
-![Mandlebrot set violet](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandlebrot_set/demo/mandlebrot_set_horizontal_violet_600x.gif)
-![Mandlebrot set violet](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandlebrot_set/demo/mandlebrot_set_vertical_red_600x.gif)
+![Mandelbrot set blue](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandelbrot_set/demo/mandelbrot_set_horizontal_blue_600x.gif)
+![Mandelbrot set violet](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandelbrot_set/demo/mandelbrot_set_horizontal_violet_600x.gif)
+![Mandelbrot set violet](https://github.com/Mhmd-Hisham/Fractals/blob/master/mandelbrot_set/demo/mandelbrot_set_vertical_red_600x.gif)
 
 
 ## Meta
