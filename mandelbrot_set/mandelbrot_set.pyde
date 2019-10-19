@@ -21,7 +21,7 @@ MAX_ITERATIONS = 100
 WHITE = color(255)
 randomRGB = lambda: (random.randrange(0, 256), random.randrange(0, 256), random.randrange(0, 256))
 
-mandlebrot_set = None
+mandelbrot_set = None
 
 def draw_text():
     fill(WHITE)
@@ -29,7 +29,7 @@ def draw_text():
     text("Bound: {}".format(BOUND), 20, 40)
     text("Test iterations: {}".format(TEST_ITERATIONS), 20, 70)
 
-class MandlebrotSet():
+class MandelbrotSet():
     """ https://en.wikipedia.org/wiki/Mandelbrot_set """
     def __init__(self, 
                  screen_width, 
@@ -115,7 +115,7 @@ class MandlebrotSet():
         return self.test_iterations
 
 def setup():
-    global mandlebrot_set
+    global mandelbrot_set
     global MAX_Y, MIN_Y
     global MAX_X, MIN_X
 
@@ -127,7 +127,7 @@ def setup():
     MIN_Y, MAX_Y = -1.2, 1.2
     MIN_X, MAX_X = MIN_Y*ratio, MAX_Y*ratio
     
-    mandlebrot_set = MandlebrotSet(width, 
+    mandelbrot_set = MandelbrotSet(width, 
                                    height, 
                                    MIN_X,
                                    MAX_X, 
@@ -137,23 +137,23 @@ def setup():
                                    test_iterations=TEST_ITERATIONS, 
                                    xshift=XSHIFT, 
                                    yshift=YSHIFT)
-    mandlebrot_set.draw()
+    mandelbrot_set.draw()
     draw_text()
 
 def draw():
     global STEP, TEST_ITERATIONS
     
-    mandlebrot_set.test_iterations = TEST_ITERATIONS
+    mandelbrot_set.test_iterations = TEST_ITERATIONS
     
     # Uncomment this section and comment the one below to control the fractal using the keyboard
     # if keyPressed:
-    #     mandlebrot_set.absolute_bound = BOUND
-    #     mandlebrot_set.draw()
+    #     mandelbrot_set.absolute_bound = BOUND
+    #     mandelbrot_set.draw()
     #     draw_text()
     
 
     time.sleep(0.5)
-    mandlebrot_set.draw()
+    mandelbrot_set.draw()
     draw_text()
     TEST_ITERATIONS += STEP
     if TEST_ITERATIONS >= MAX_ITERATIONS or TEST_ITERATIONS <= 0:
